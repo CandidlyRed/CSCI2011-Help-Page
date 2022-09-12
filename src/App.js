@@ -30,14 +30,14 @@ function App() {
         <h1>Fall 2022 : CSCI 2011 - Discrete Structures</h1>
       </div>
       <div className="title-box">
-        <a href="https://www.google.com/">
+        <a href="https://canvas.umn.edu/courses/332566/pages/schedule-and-homework?module_item_id=8794860">
             <h1>Schedule</h1>
         </a>
-        <a href="https://www.google.com/">
+        <a href="https://canvas.umn.edu/courses/332566">
           <h1>Canvas</h1>
         </a>
-        <a href="https://www.google.com/">
-          <h1>TA Hours</h1>
+        <a href="https://canvas.umn.edu/courses/332566/pages/office-hours?module_item_id=8849912">
+          <h1>Office Hours</h1>
         </a>
       </div>
     </div>
@@ -156,12 +156,15 @@ function App() {
               <img src={cat} className="image" alt="" />
             </div>
             <div className='right-top'>
-              <h1>Example Event</h1>
+              <h1>UMN App Dev Kickoff</h1>
             </div>
             <div className='right-bottom'>
-              Hi
+            We'll be introducing the board, telling you more about our club, and discussing what our plans are for the upcoming semester and year. Afterwards, we'll have a chill time where you can meet other app developers and get some free food!
             </div>
-          </div>
+            <div className='right-bottom'>
+            Also, our general meetings will be every Tuesday from 6-7 at Tate B55 starting the week after, which is 9/27. We'll talk more about this at the kickoff but they will mainly be workshops where you can learn and play with different app development tools.
+             </div>
+              </div>
           <div className="space"></div>
         </div>
       </div>
