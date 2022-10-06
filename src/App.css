@@ -77,16 +77,16 @@ body {
 .title {
   padding: 25px;
   background-color: white;
-  width: 87%;
+  width: 85%;
   float: left;
-  font-size: calc(15px + 2vmin);
+  font-size: calc(14px + 2vmin);
   color: rgb(88, 147, 241);
 }
 
 .title-box {
   padding: 15px;
   background-color: white;
-  width: 13%;
+  width: 15%;
   float: left;
   text-align: right;
   font-size: calc(5px + 1vmin);
